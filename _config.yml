@@ -1,13 +1,13 @@
 # main text of home
 name: Shobhit Singhal
-bio: A man who knows nothing. Shiv Nadar University(Sophomore year) A to be B.Tech graduate(someday hopefully)
+bio: A man who knows nothing Shiv Nadar University(Sophomore year) A to be B.Tech graduate(someday hopefully)
 
 # twitter summary info
 description: A blog surely not about technology and stuff related. Though you can find some really lame jokes.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/shobhit1.jpg
 
 # If you want to include your resume, set to true
@@ -35,10 +35,10 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/shobhit.singhal.5070
-twitter: https://twitter.com/shobhit250196
+facebook: shobhit.singhal.5070
+twitter:  shobhit250196
 # google: mygoogle
-instagram: https://www.instagram.com/shobhit.singhal_/
+instagram: shobhit.singhal_/
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
