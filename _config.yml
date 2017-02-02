@@ -1,14 +1,16 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Shobhit Singhal
+bio: A man who knows nothing. 
+Shiv Nadar University(Sophomore year)
+A to be B.Tech graduate(someday hopefully)
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog surely not about technology and stuff related. Though you can find some really lame jokes.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: pictures/shobhit1.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +18,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://Shobhit2597.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,29 +37,27 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook:https://www.facebook.com/shobhit.singhal.5070
+twitter:https://twitter.com/shobhit250196
 # google: mygoogle
-# instagram: myinstagram
+instagram: https://www.instagram.com/shobhit.singhal_/
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/Shobhit2597
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: shobhit25singhal97@gmail.com
+        ss441@snu.edu.in
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+    shobhit404:
+        name: Shobhit Singhal
+       
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
